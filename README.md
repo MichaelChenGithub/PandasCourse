@@ -8,4 +8,5 @@ these skills include:
   4. merge dataframe
 
 If you are already familiar with Pandas, view "pandas_introduction.py" to find some tools.
+
 If you are a beginner with Pandas, learn in "pandas_introduction_detail_cn.ipynb".
